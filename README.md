@@ -34,5 +34,4 @@
 
 ## Cite
 
-J. A. Fonseca, BSTS-SG 1.0. Bayesian Structural Timeseries Model for the Causal Impact Analysis of 
-Behavioral Interventions on Energy Consumption in Singapore. Github. 2020
+J. A. Fonseca, BSTS-SG 1.0. An ensemble timeseries model for the evaluation of energy conservation strategies in Singaporean households. Report – Cooling Singapore, ETH Zurich. 2020 
