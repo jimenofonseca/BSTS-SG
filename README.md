@@ -9,7 +9,7 @@
  This is an ensemble model combining multi-physics and data-driven building energy consumption models
  into a Bayesian Structural Timeseries Model.
  
- ![summary](https://github.com/JIMENOFONSECA/BSTS-SG/blob/master/images/summary.PNG)
+ ![summary](https://github.com/jimenofonseca/BSTS-SG/blob/master/images/summary.PNG)
  
  More information is coming soon...
 
