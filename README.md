@@ -34,4 +34,4 @@
 
 ## Cite
 
-J. A. Fonseca, BSTS-SG 1.0. An ensemble timeseries model for the evaluation of energy conservation strategies in Singaporean households. Report – Cooling Singapore, ETH Zurich. 2020 
+![J. A. Fonseca](https://www.research-collection.ethz.ch/handle/20.500.11850/441382), BSTS-SG 1.0. An ensemble timeseries model for the evaluation of energy conservation strategies in Singaporean households. Report – Cooling Singapore, ETH Zurich. 2020 
